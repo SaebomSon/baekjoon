@@ -1,5 +1,6 @@
 package baekjoon.practice.level6;
 
+// test Ä¿¹Ô È®ÀÎ
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
