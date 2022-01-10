@@ -30,8 +30,7 @@ public class Q_1316 {
 					break;
 				}
 			}
-			if (group)
-				count++;
+			if (group) count++;
 		}
 		System.out.println(count);
 	}

@@ -16,6 +16,7 @@ public class Q_2675 {
 			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 			int count = Integer.parseInt(st.nextToken());
 			String str = st.nextToken();
+			
 			for(int j = 0; j < str.length(); j++) {
 				for(int k = 0; k < count; k++) {
 					sb.append(str.charAt(j));
