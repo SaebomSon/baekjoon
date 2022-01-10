@@ -9,7 +9,7 @@ public class Q_1316 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int num = Integer.parseInt(br.readLine());
-
+ 
 		int count = 0;
 
 		for (int i = 0; i < num; i++) {
