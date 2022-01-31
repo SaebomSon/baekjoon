@@ -1,4 +1,4 @@
 # baekjoon
 Practice baekjoon coding test
 
-notion : https://www.notion.so/Algorithm_Practice-518938f00b0a468f97b9252145827726
+velog : https://velog.io/@bonni/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EC%9D%B4
